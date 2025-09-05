@@ -10,6 +10,7 @@ import Luces from "./pages/Luces";
 import Sombras from "./pages/Sombras";
 import Efectos from "./pages/Efectos";
 import Laboratorio1 from "./pages/Laboratorio1";
+import Practica1 from "./pages/Practica1";
 
 
 const routes = [
@@ -23,6 +24,7 @@ const routes = [
   { path: "sombras", element: <Sombras /> },
   { path: "efectos", element: <Efectos /> },
   { path: "laboratorio1", element: <Laboratorio1 /> },
+  { path: "practica1", element: <Practica1 /> },
 
 ];
 

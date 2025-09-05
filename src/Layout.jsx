@@ -37,6 +37,7 @@ function Layout() {
                 </Dropdown.Toggle>
                 <Dropdown.Menu>
                   <Dropdown.Item href="/laboratorio1">Albedo - Alpha - Transparent</Dropdown.Item>
+                  <Dropdown.Item href="/practica1">Practica 1</Dropdown.Item>
                 </Dropdown.Menu>
               </Dropdown>
             </Nav>
