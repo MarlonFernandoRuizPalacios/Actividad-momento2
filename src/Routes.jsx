@@ -32,6 +32,7 @@ const routes = [
   { path: "practica2", element: <Practica2 /> },
   { path: "practica3", element: <Practica3 /> },
   { path: "practica4", element: <Practica4 /> },
+  { path: "practica5", element: <Practica5 /> },
   { path: "practica6", element: <Practica6 /> },
 
 ];
