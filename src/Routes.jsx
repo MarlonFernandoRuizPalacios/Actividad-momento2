@@ -13,7 +13,7 @@ import Laboratorio1 from "./pages/Laboratorio1";
 import Practica1 from "./pages/Practica1";
 import Practica2 from "./pages/Practica2";
 import Practica3 from "./pages/Practica3";
-
+import Practica4 from "./pages/Practica4";
 
 const routes = [
   { path: "/", element: <Inicio />, index: true },
@@ -29,6 +29,7 @@ const routes = [
   { path: "practica1", element: <Practica1 /> },
   { path: "practica2", element: <Practica2 /> },
   { path: "practica3", element: <Practica3 /> },
+  { path: "practica4", element: <Practica4 /> },
 
 ];
 
